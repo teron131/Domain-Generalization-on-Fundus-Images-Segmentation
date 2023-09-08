@@ -77,7 +77,7 @@ Results:
 </table>
 
 ## Prerequisites
-Download and unzip data from the link [Fundus dataset](https://drive.google.com/u/0/uc?id=1p33nsWQaiZMAgsruDoJLyatoq5XAH-TH&export=download).
+Download and unzip the [Fundus dataset](https://drive.google.com/u/0/uc?id=1p33nsWQaiZMAgsruDoJLyatoq5XAH-TH&export=download).
 
 Place the `Fundus` folder (not `Fundus-doFE`)  into the main directory. If running in Colab, change the paths accordingly and run the following commands in the notebook:
 
