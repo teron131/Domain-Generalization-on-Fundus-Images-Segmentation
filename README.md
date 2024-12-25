@@ -92,7 +92,7 @@ Install the additional libraries by:
 
 ```python
 !pip install segmentation-models-pytorch
-!git clone https://github.com/deepmind/surface-distance.git
+!git clone https://github.com/google-deepmind/surface-distance.git
 !pip install surface-distance/
 ```
 
